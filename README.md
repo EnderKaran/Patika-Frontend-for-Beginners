@@ -3,7 +3,7 @@
   <h2>Kategoriler:</h2>
 
   <ul>
-    <li>**Patika.dev Kopyaları:**
+    <li>**Patika.dev Projeleri
       <ul>
         <li>a) bootstrap-linkedin-clone: Bootstrap ile oluşturulmuş bir LinkedIn kopyası.</li>
         <li>b) bootstrap-instagram-clone: Bootstrap ile oluşturulmuş bir Instagram kopyası.</li>
